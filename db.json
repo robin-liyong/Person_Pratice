@@ -49,7 +49,7 @@
         }
   ],
           
-    "second": [
+    "second": 
         {
            "title":"Lazy Cat2",
            "name":"Lazy Jack Cat2",
@@ -97,6 +97,6 @@
               }
            }
         }
-  ]      
+      
 
 }
