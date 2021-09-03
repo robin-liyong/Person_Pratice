@@ -13,7 +13,12 @@
        {
          "name": "NFT Art02",
          "description": "info02",
-         "image": "https://bafybeiad7eihfmkvibv5e2gn2m2zyw4hknbuhrw2bchcayjzvbglhvs4ji.ipfs.dweb.link/art02.png"
+         "image": "https://bafybeiad7eihfmkvibv5e2gn2m2zyw4hknbuhrw2bchcayjzvbglhvs4ji.ipfs.dweb.link/art02.png",
+         "attributes": [
+               {
+               "trait": "beautiful"
+               }
+            ]
        }
     ]
 }
