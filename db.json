@@ -2,8 +2,8 @@
     "get": [
                 {
            "id": "1",
-           "title":"Lazy Cat",
-           "name":"Lazy Jack Cat",
+           "title":"Lazy Cat1",
+           "name":"Lazy Jack Cat1",
            "type":"object",
            "imageUrl":"https://bafybeiad7eihfmkvibv5e2gn2m2zyw4hknbuhrw2bchcayjzvbglhvs4ji.ipfs.dweb.link/art01.png",
            "description":"I love sleep",
@@ -48,26 +48,150 @@
               }
            }
         },
-                {
-            "id": "2",
-            "name": "NFT Art02",
-            "description": "This image shows the true nature of NFT.",
-            "image": "https://bafybeicljosuwilnopw4nwnf6xr4nhm5v3uitvpf5axezzocez6m4nwrya.ipfs.dweb.link/art02.png"
+               {
+           "id": "2",
+           "title":"Lazy Cat2",
+           "name":"Lazy Jack Cat2",
+           "type":"object",
+           "imageUrl":"https://bafybeiad7eihfmkvibv5e2gn2m2zyw4hknbuhrw2bchcayjzvbglhvs4ji.ipfs.dweb.link/art02.png",
+           "description":"I love sleep",
+            "attributes":[
+              {
+                 "trait_type":"Creator",
+                 "value":"Frank\u015f"
+              }
+           ],
+           "properties":{
+              "name":{
+                 "type":"string",
+                 "description":"Lazy Jack Cat"
+              },
+              "description":{
+                 "type":"string",
+                 "description":"I love sleep and Lazy."
+              },
+              "preview_media_file":{
+                 "type":"string",
+                 "description":"https://ipfs.io/ipfs/QmS2dg3kSD2DCbW3MFjV72YgekmapYLuj7NYqZSvpsKN3f"
+              },
+              "preview_media_file_type":{
+                 "type":"string",
+                 "description":"jpg"
+              },
+              "created_at":{
+                 "type":"datetime",
+                 "description":"2020-03-25T17:52:51.269256+00:00"
+              },
+              "total_supply":{
+                 "type":"int",
+                 "description":1
+              },
+              "digital_media_signature_type":{
+                 "type":"string",
+                 "description":"SHA-256"
+              },
+              "digital_media_signature":{
+                 "type":"string",
+                 "description":"664ae5c9eacf131e4f095d79bb1b3c9eda3d087d9855b3372d6d242667a3dce3"
+              }
+           }
         },
                 {
-            "id": "3",
-            "name": "NFT Art03",
-            "description": "This image shows the true nature of NFT.",
-            "image": "https://bafybeiauyndibf7sbgxmz4flhfgjryaishmodfltouvxpbv6wzg6fjxdnu.ipfs.dweb.link/art03.png"
-        }
-        ,
-                {
-            "id": "4",
-            "name": "NFT Art04",
-            "description": "This image shows the true nature of NFT.",
-            "image": "https://bafybeifdk4un6ndkm74vamt5slh5iftk2largge27rhsctr5pc4gtz3h2y.ipfs.dweb.link/art04.png"
-        }
-        ,
+           "id": "3",
+           "title":"Lazy Cat3",
+           "name":"Lazy Jack Cat3",
+           "type":"object",
+           "imageUrl":"https://bafybeiad7eihfmkvibv5e2gn2m2zyw4hknbuhrw2bchcayjzvbglhvs4ji.ipfs.dweb.link/art03.png",
+           "description":"I love sleep",
+            "attributes":[
+              {
+                 "trait_type":"Creator",
+                 "value":"Frank\u015f"
+              }
+           ],
+           "properties":{
+              "name":{
+                 "type":"string",
+                 "description":"Lazy Jack Cat"
+              },
+              "description":{
+                 "type":"string",
+                 "description":"I love sleep and Lazy."
+              },
+              "preview_media_file":{
+                 "type":"string",
+                 "description":"https://ipfs.io/ipfs/QmS2dg3kSD2DCbW3MFjV72YgekmapYLuj7NYqZSvpsKN3f"
+              },
+              "preview_media_file_type":{
+                 "type":"string",
+                 "description":"jpg"
+              },
+              "created_at":{
+                 "type":"datetime",
+                 "description":"2020-03-25T17:52:51.269256+00:00"
+              },
+              "total_supply":{
+                 "type":"int",
+                 "description":1
+              },
+              "digital_media_signature_type":{
+                 "type":"string",
+                 "description":"SHA-256"
+              },
+              "digital_media_signature":{
+                 "type":"string",
+                 "description":"664ae5c9eacf131e4f095d79bb1b3c9eda3d087d9855b3372d6d242667a3dce3"
+              }
+           }
+        },
+              {
+           "id": "4",
+           "title":"Lazy Cat4",
+           "name":"Lazy Jack Cat4",
+           "type":"object",
+           "imageUrl":"https://bafybeiad7eihfmkvibv5e2gn2m2zyw4hknbuhrw2bchcayjzvbglhvs4ji.ipfs.dweb.link/art04.png",
+           "description":"I love sleep",
+            "attributes":[
+              {
+                 "trait_type":"Creator",
+                 "value":"Frank\u015f"
+              }
+           ],
+           "properties":{
+              "name":{
+                 "type":"string",
+                 "description":"Lazy Jack Cat"
+              },
+              "description":{
+                 "type":"string",
+                 "description":"I love sleep and Lazy."
+              },
+              "preview_media_file":{
+                 "type":"string",
+                 "description":"https://ipfs.io/ipfs/QmS2dg3kSD2DCbW3MFjV72YgekmapYLuj7NYqZSvpsKN3f"
+              },
+              "preview_media_file_type":{
+                 "type":"string",
+                 "description":"jpg"
+              },
+              "created_at":{
+                 "type":"datetime",
+                 "description":"2020-03-25T17:52:51.269256+00:00"
+              },
+              "total_supply":{
+                 "type":"int",
+                 "description":1
+              },
+              "digital_media_signature_type":{
+                 "type":"string",
+                 "description":"SHA-256"
+              },
+              "digital_media_signature":{
+                 "type":"string",
+                 "description":"664ae5c9eacf131e4f095d79bb1b3c9eda3d087d9855b3372d6d242667a3dce3"
+              }
+           }
+        },
                 {
             "id": "5",
             "name": "NFT Art05",
