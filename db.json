@@ -1,6 +1,6 @@
 {
   "get": [{
-        "first":  {
+        {
            "title":"Lazy Cat1",
            "name":"Lazy Jack Cat1",
            "type":"object",
@@ -47,7 +47,7 @@
               }
            }
         },
-     "second":  {
+    {
            "title":"Lazy Cat2",
            "name":"Lazy Jack Cat2",
            "type":"object",
