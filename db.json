@@ -1,7 +1,7 @@
 {
     "get": [{
-      "first": 
         {
+            "id": 1,
            "title":"Lazy Cat1",
            "name":"Lazy Jack Cat1",
            "type":"object",
@@ -13,9 +13,9 @@
                  "value":"Frank\u015f"
               }
            ]
-        },
-    "second": 
+        }, 
         {
+           "id": 2,
            "title":"Lazy Cat2",
            "name":"Lazy Jack Cat2",
            "type":"object",
@@ -27,10 +27,9 @@
                  "value":"Frank\u015f"
               }
            ]
-        },
-  
-     "Third": 
+        }, 
         {
+            "id": 3,
            "title":"Lazy Cat3",
            "name":"Lazy Jack Cat3",
            "type":"object",
