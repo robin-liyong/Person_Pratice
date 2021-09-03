@@ -1,44 +1,85 @@
 {
   "metadata": [
-      {
-    "id": 1,
-    "info": "NFT Art01",
-    "image": "https://bafybeiad7eihfmkvibv5e2gn2m2zyw4hknbuhrw2bchcayjzvbglhvs4ji.ipfs.dweb.link/art01.png"
-   },
-      {
-    "id": 2,
-    "info": "NFT Art02",
-    "image": "https://bafybeicljosuwilnopw4nwnf6xr4nhm5v3uitvpf5axezzocez6m4nwrya.ipfs.dweb.link/art02.png"
-   },
-      {
-    "id": 3,
-    "info": "NFT Art03",
-    "image": "https://bafybeiauyndibf7sbgxmz4flhfgjryaishmodfltouvxpbv6wzg6fjxdnu.ipfs.dweb.link/art03.png"
-   },
-      {
-    "id": 4,
-    "info": "NFT Art04",
-    "image": "https://bafybeifdk4un6ndkm74vamt5slh5iftk2largge27rhsctr5pc4gtz3h2y.ipfs.dweb.link/art04.png"
-   },
-      {
-    "id": 5,
-    "info": "NFT Art05",
-    "image": "https://bafybeifwm3qasi7rlfupvhng3ibgbvnmwp6jbq6yfg3rfw7ydygywmkxpy.ipfs.dweb.link/art05.png"
-   },
-      {
-    "id": 6,
-    "info": "NFT Art06",
-    "image": "https://bafybeigzzxgfh53uibkimouxjqgrc247nj7rfcy5sxdzwrjaehfbpffjwm.ipfs.dweb.link/art06.png"
-   },
-      {
-    "id": 7,
-    "info": "NFT Art07",
-    "image": "https://bafybeib7qyewsthleh5mws7bc5dh3bdetm4ppljaakylx6sveb6jjh54qi.ipfs.dweb.link/art07.png"
-   },
-      {
-    "id": 8,
-    "info": "NFT Art08",
-    "image": "https://bafybeigyprb2wy6w34n4ftmqj3vgciyqcpv6mhyn3rv4ma6gc7i5lpjigu.ipfs.dweb.link/art08.png"
-   }
+      
+    {
+      "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.", 
+      "image": "https://bafybeiad7eihfmkvibv5e2gn2m2zyw4hknbuhrw2bchcayjzvbglhvs4ji.ipfs.dweb.link/art01.png", 
+      "name": "NFT Art01",
+      "attributes": [
+        {
+          "trait": "beautiful"
+        }
+      ], 
+    },
+        {
+      "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.", 
+      "image": "https://bafybeiad7eihfmkvibv5e2gn2m2zyw4hknbuhrw2bchcayjzvbglhvs4ji.ipfs.dweb.link/art02.png", 
+      "name": "NFT Art02",
+      "attributes": [
+        {
+          "trait": "beautiful"
+        }
+      ], 
+    },
+        {
+      "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.", 
+      "image": "https://bafybeiad7eihfmkvibv5e2gn2m2zyw4hknbuhrw2bchcayjzvbglhvs4ji.ipfs.dweb.link/art03.png", 
+      "name": "NFT Art03",
+      "attributes": [
+        {
+          "trait": "beautiful"
+        }
+      ], 
+    },
+        {
+      "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.", 
+      "image": "https://bafybeiad7eihfmkvibv5e2gn2m2zyw4hknbuhrw2bchcayjzvbglhvs4ji.ipfs.dweb.link/art04.png", 
+      "name": "NFT Art04",
+      "attributes": [
+        {
+          "trait": "beautiful"
+        }
+      ], 
+    },
+        {
+      "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.", 
+      "image": "https://bafybeiad7eihfmkvibv5e2gn2m2zyw4hknbuhrw2bchcayjzvbglhvs4ji.ipfs.dweb.link/art05.png", 
+      "name": "NFT Art05",
+      "attributes": [
+        {
+          "trait": "beautiful"
+        }
+      ], 
+    },
+        {
+      "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.", 
+      "image": "https://bafybeiad7eihfmkvibv5e2gn2m2zyw4hknbuhrw2bchcayjzvbglhvs4ji.ipfs.dweb.link/art06.png", 
+      "name": "NFT Art06",
+      "attributes": [
+        {
+          "trait": "beautiful"
+        }
+      ], 
+    },
+        {
+      "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.", 
+      "image": "https://bafybeiad7eihfmkvibv5e2gn2m2zyw4hknbuhrw2bchcayjzvbglhvs4ji.ipfs.dweb.link/art07.png", 
+      "name": "NFT Art07",
+      "attributes": [
+        {
+          "trait": "beautiful"
+        }
+      ], 
+    },
+        {
+      "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.", 
+      "image": "https://bafybeiad7eihfmkvibv5e2gn2m2zyw4hknbuhrw2bchcayjzvbglhvs4ji.ipfs.dweb.link/art08.png", 
+      "name": "NFT Art08",
+      "attributes": [
+        {
+          "trait": "beautiful"
+        }
+      ], 
+    }
   ]
 }
