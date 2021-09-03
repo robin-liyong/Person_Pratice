@@ -1,13 +1,11 @@
 {
-  "metadata": [
+  "get": [
         {
-          "id": 1,
       "name": "NFT Art01",
       "description": "info1",
       "image": "https://bafybeiad7eihfmkvibv5e2gn2m2zyw4hknbuhrw2bchcayjzvbglhvs4ji.ipfs.dweb.link/art01.png"
     },
         {
-          "id": 2,
       "name": "NFT Art02",
       "description": "info2", 
       "image": "https://bafybeiad7eihfmkvibv5e2gn2m2zyw4hknbuhrw2bchcayjzvbglhvs4ji.ipfs.dweb.link/art02.png"
