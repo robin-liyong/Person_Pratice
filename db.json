@@ -1,18 +1,19 @@
 {
     "get": [
-            {
-            "id": "1",
-            "name": "NFT Art01",
-            "description": "This image shows the true nature of NFT.",
-            "image": "https://bafybeiad7eihfmkvibv5e2gn2m2zyw4hknbuhrw2bchcayjzvbglhvs4ji.ipfs.dweb.link/art01.png"
-           },
+                {
+           "id": "1",
+           "title":"Lazy Cat",
+           "name":"Lazy Jack Cat",
+           "type":"object",
+           "imageUrl":"https://bafybeiad7eihfmkvibv5e2gn2m2zyw4hknbuhrw2bchcayjzvbglhvs4ji.ipfs.dweb.link/art01.png",
+           "description":"I love sleep",
+        },
                 {
             "id": "2",
             "name": "NFT Art02",
             "description": "This image shows the true nature of NFT.",
             "image": "https://bafybeicljosuwilnopw4nwnf6xr4nhm5v3uitvpf5axezzocez6m4nwrya.ipfs.dweb.link/art02.png"
-        }
-        ,
+        },
                 {
             "id": "3",
             "name": "NFT Art03",
