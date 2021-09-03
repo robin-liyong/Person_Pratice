@@ -2,13 +2,12 @@
   "get": [
         {
       "name": "NFT Art01",
-      "description": "info1",
-      "image": "https://bafybeiad7eihfmkvibv5e2gn2m2zyw4hknbuhrw2bchcayjzvbglhvs4ji.ipfs.dweb.link/art01.png"
+      "description": "info01",
+      "image": "https://bafybeiad7eihfmkvibv5e2gn2m2zyw4hknbuhrw2bchcayjzvbglhvs4ji.ipfs.dweb.link/art01.png",
+      "attributes": [
+        "trait": "beautiful"
+      ]
     },
-        {
-      "name": "NFT Art02",
-      "description": "info2", 
-      "image": "https://bafybeiad7eihfmkvibv5e2gn2m2zyw4hknbuhrw2bchcayjzvbglhvs4ji.ipfs.dweb.link/art02.png"
-    }
+
   ]
 }
