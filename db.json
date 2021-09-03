@@ -149,5 +149,54 @@
         }
     }],
   
-  "post": [{}]
+  "post": [{
+        "four": 
+        {
+           "title":"Lazy Cat1",
+           "name":"Lazy Jack Cat1",
+           "type":"object",
+           "imageUrl":"https://bafybeiad7eihfmkvibv5e2gn2m2zyw4hknbuhrw2bchcayjzvbglhvs4ji.ipfs.dweb.link/art01.png",
+           "description":"I love sleep",
+           "attributes":[
+              {
+                 "trait_type":"Creator",
+                 "value":"Frank\u015f"
+              }
+           ],
+           "properties":{
+              "name":{
+                 "type":"string",
+                 "description":"Lazy Jack Cat"
+              },
+              "description":{
+                 "type":"string",
+                 "description":"I love sleep and Lazy."
+              },
+              "preview_media_file":{
+                 "type":"string",
+                 "description":"https://ipfs.io/ipfs/QmS2dg3kSD2DCbW3MFjV72YgekmapYLuj7NYqZSvpsKN3f"
+              },
+              "preview_media_file_type":{
+                 "type":"string",
+                 "description":"jpg"
+              },
+              "created_at":{
+                 "type":"datetime",
+                 "description":"2020-03-25T17:52:51.269256+00:00"
+              },
+              "total_supply":{
+                 "type":"int",
+                 "description":1
+              },
+              "digital_media_signature_type":{
+                 "type":"string",
+                 "description":"SHA-256"
+              },
+              "digital_media_signature":{
+                 "type":"string",
+                 "description":"664ae5c9eacf131e4f095d79bb1b3c9eda3d087d9855b3372d6d242667a3dce3"
+              }
+           }
+        }
+  }]
 }
